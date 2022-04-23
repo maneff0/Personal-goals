@@ -1,0 +1,13 @@
+.goalItem {
+  margin: 1rem 0;
+  background: #50723C;
+  border-radius: 30px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.goalItem:hover {
+  background-color: #63B995;
+}
